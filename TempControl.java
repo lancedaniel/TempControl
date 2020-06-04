@@ -1,4 +1,4 @@
-public class TempControl{
+public class TempControl{   //LanceDaniel - was messing around just for fun and to get better at Java coding
 	static boolean increasing = true;
 	
 	public static int decrease (int temp) {
